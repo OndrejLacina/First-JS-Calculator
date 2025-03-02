@@ -1,7 +1,7 @@
 const path = require("path");
 const webpack = require("webpack");
 
-const entryPath = "06_Task_6";
+const entryPath = "First-JS-Calculator";
 
 module.exports = {
   mode: "none",
